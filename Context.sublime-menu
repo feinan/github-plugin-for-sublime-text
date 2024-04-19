@@ -1,0 +1,7 @@
+[
+    {
+        "id": "view",
+        "command": "gitlink",
+        "caption": "Open in git.musta.ch"
+    }
+]
